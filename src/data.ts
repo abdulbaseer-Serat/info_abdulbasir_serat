@@ -23,17 +23,22 @@ import {
   Eye,
 } from 'lucide-react';
 
+import profilePhoto from './images/profile.jpg';
+
 export const personalInfo = {
   name: 'Abdul Basir Serat',
   title: 'IT Support Specialist',
   tagline: 'Cisco Networking | Microsoft 365 | Azure Cloud | Cybersecurity',
   email: 'info.abdulbasir@gmail.com',
-  github: 'https://github.com/YOUR_GITHUB_USERNAME',
-  linkedin: 'https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/',
+
+  github: 'https://github.com/abdulbaseer-Serat',
+
+  linkedin: 'https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME',
+
   location: 'Afghanistan',
   experience: '8+ Years',
-  photo: 'https://drive.google.com/file/d/1jaY-nmJSqUYGNvbjbP3xLJ834yTbzkg9/view?usp=drive_link',
-  
+
+  photo: profilePhoto,
 };
 
 export const typedRoles = [
