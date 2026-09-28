@@ -32,7 +32,7 @@ export const personalInfo = {
   linkedin: 'https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/',
   location: 'Afghanistan',
   experience: '8+ Years',
-  photo: import profilePhoto from './images/profile.jpg';
+  import profilePhoto from './images/profile.jpg';
 };
 
 export const typedRoles = [
